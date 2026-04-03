@@ -22,7 +22,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,cpp,c,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,bash,cpp,c,html,css" alt="Languages" />
   <br>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,azure,mysql,git,github,vscode" alt="Tools" />
 </p>
