@@ -1,7 +1,7 @@
 <div align="center">
 
-# Hi there, I'm [Your Name] 👋
-### ☁️ Aspiring Cloud Engineer | DevOps Enthusiast | Full Stack Developer
+# Hi there, I'm Priyanshu 👋
+### ☁️ Aspiring Cloud Engineer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+Scalable+Solutions;DevOps+%26+Cloud+Native;Lifelong+Learner)](https://git.io/typing-svg)
 
@@ -12,7 +12,7 @@
 ### 📖 About Me
 
 - 🎓 **Education:** Pursuing B.Tech in CSE at Lovely Professional University.
-- 💻 **OS:** Primary driver is **Ubuntu** (Linux lover 🐧).
+- 💻 **OS:** Primary driver is **Ubuntu** 🐧.
 - 🛠️ **Current Project:** Building a custom CRM for Handwriters Publication.
 - 🎯 **Goals:** Mastering Kubernetes and Cloud Architecture.
 - ⚡ **Fun Fact:** I'm currently experimenting with text-to-video generation using Manim.
@@ -32,8 +32,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=transparent&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryoikitenkaai&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryoikitenkaai&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
