@@ -14,7 +14,6 @@
 - 🎓 **Education:** Pursuing B.Tech in CSE at Lovely Professional University.
 - 💻 **OS:** Primary driver is **Ubuntu** 🐧.
 - 🛠️ **Current Project:** Building a custom CRM for Handwriters Publication.
-- 🎯 **Goals:** Mastering Kubernetes and Cloud Architecture.
 - ⚡ **Fun Fact:** I'm currently experimenting with text-to-video generation using Manim.
 
 ---
