@@ -3,7 +3,7 @@
 # Hi there, I'm Priyanshu 👋
 ### ☁️ Aspiring Cloud Engineer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+Scalable+Solutions;DevOps+%26+Cloud+Native;Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+Scalable+Solutions;Lifelong+Learner)](https://git.io/typing-svg)
 
 </div>
 
